@@ -42,3 +42,11 @@ zip -d [jar_name] META-INF/LICENSE
 jar tvf [jar_name] | grep -i license
 ```
 で直ります。(原因の解明できてないのでわかる人いたら教えて欲しいです)
+
+これを実行したらhadoopコマンドを使って実行しましょう。
+* hadoopコマンドを用いた実行
+
+`hadoop jar [jar_file] <args>*`
+
+以上で実行可能かと思います。(2018/05/04)
+
