@@ -1,0 +1,26 @@
+group 'hadoop.educ'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'application'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+mainClassName = 'StreamCompressorMain'
+
+dependencies {
+//    testCompile group: 'junit', name: 'junit', version: '4.12'
+    // https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-client
+    compile group: 'org.apache.hadoop', name: 'hadoop-client', version: '3.0.0'
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'StreamCompressorMain'
+    }
+    from configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+}

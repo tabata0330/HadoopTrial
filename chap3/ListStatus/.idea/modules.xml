@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ListStatus.iml" filepath="$PROJECT_DIR$/.idea/modules/ListStatus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ListStatus_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ListStatus_main.iml" group="ListStatus" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ListStatus_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ListStatus_test.iml" group="ListStatus" />
+    </modules>
+  </component>
+</project>

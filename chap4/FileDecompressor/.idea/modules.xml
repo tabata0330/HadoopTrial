@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FileDecompressor.iml" filepath="$PROJECT_DIR$/.idea/modules/FileDecompressor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FileDecompressor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FileDecompressor_main.iml" group="FileDecompressor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FileDecompressor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FileDecompressor_test.iml" group="FileDecompressor" />
+    </modules>
+  </component>
+</project>
