@@ -20,7 +20,7 @@ Gradleプロジェクトにしているのでgradleを導入してからビル�
 brew update
 brew install gradle
 ```
-gradleが導入できたらプロジェクトまで移動してビルドします。`build.gradle`はそのままでビルドできると思います。
+gradleが導入できたらプロジェクトまで移動してビルドします。設定ファイルである`build.gradle`はそのままでビルドできると思います。
 * プロジェクトのビルド
 
 ```
@@ -48,5 +48,5 @@ jar tvf [jar_name] | grep -i license
 
 `hadoop jar [jar_file] <args>*`
 
-以上で実行可能かと思います。(2018/05/04)
+以上で実行可能かと思います。(2018/05/05)
 
