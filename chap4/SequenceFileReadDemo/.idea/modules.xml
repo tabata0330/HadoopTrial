@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SequenceFileReadDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/SequenceFileReadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SequenceFileReadDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SequenceFileReadDemo_main.iml" group="SequenceFileReadDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SequenceFileReadDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SequenceFileReadDemo_test.iml" group="SequenceFileReadDemo" />
+    </modules>
+  </component>
+</project>
