@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MaxTemperature.iml" filepath="$PROJECT_DIR$/.idea/modules/MaxTemperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MaxTemperature_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MaxTemperature_main.iml" group="MaxTemperature" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MaxTemperature_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MaxTemperature_test.iml" group="MaxTemperature" />
+    </modules>
+  </component>
+</project>

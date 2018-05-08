@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.ftpserver:ftpserver-core:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ftpserver/ftpserver-core/1.0.0/47c8480cc3bfda85d578e3368e78103cb9e9bed7/ftpserver-core-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ftpserver/ftpserver-core/1.0.0/ed25508be885b8ac0ff0bd229aa2868af57fc403/ftpserver-core-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.ftpserver:ftpserver-deprecated:1.0.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ftpserver/ftpserver-deprecated/1.0.0-M2/a1f5645a02a438ba0e115c967262c7818e308fcb/ftpserver-deprecated-1.0.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ftpserver/ftpserver-deprecated/1.0.0-M2/a3ab7aaec80bbde07d3273b82e961c346922629c/ftpserver-deprecated-1.0.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
