@@ -28,6 +28,10 @@ hs_err_pid*
 # Mackintosh local files
 *.DS_Store
 
+#for intelliJ
+build/
+.idea/
+.gradle/
 
 # Avroの挙動が怪しい(というかよくわからない)から一旦排除
 AvroRead/
